@@ -33,19 +33,19 @@ Os dados são armazenados em um **arquivo TXT**, funcionando como um pequeno ban
 # 🖥 Exemplo de Dashboard
 =========== DASHBOARD ANIME ===========
 
-0 - Naruto S1 [Assistindo] [##########----------] 50% (110/220)
-1 - Death Note S1 [Completo] [####################] 100% (37/37)
-2 - One Piece S1 [Assistindo] [####----------------] 20% (200/1000)
-3 - Bleach S1 [Planejado] [--------------------] 0% (0/366)
+0 - Naruto S1 [Assistindo] [##########----------] 50% (110/220)\
+1 - Death Note S1 [Completo] [####################] 100% (37/37)\
+2 - One Piece S1 [Assistindo] [####----------------] 20% (200/1000)\
+3 - Bleach S1 [Planejado] [--------------------] 0% (0/366)\
 
 ---
 
 # 📊 Ranking de progresso
 ======= RANKING DE PROGRESSO =======
 
-1º Death Note S1 [####################] 100%
-2º Naruto S1 [##########----------] 50%
-3º One Piece S1 [####----------------] 20%
+1º Death Note S1 [####################] 100%\
+2º Naruto S1 [##########----------] 50%\
+3º One Piece S1 [####----------------] 20%\
 
 ---
 
