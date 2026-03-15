@@ -94,7 +94,7 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ---
 
-# 👨‍💻 Vnicius Anjos
+# 👨‍💻 Vinicius Anjos
 
 Projeto desenvolvido como estudo e prática de programação em **C**.
 
