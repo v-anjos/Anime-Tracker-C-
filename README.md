@@ -49,16 +49,6 @@ Os dados são armazenados em um **arquivo TXT**, funcionando como um pequeno ban
 
 ---
 
-# 🗂 Estrutura do Projeto
-Anime-Tracker-C-/
-
-animeTracker.c
-animes.txt
-README.md
-LICENCE
-
----
-
 # 💾 Banco de dados
 
 Os dados são armazenados em um arquivo **TXT** simples.
