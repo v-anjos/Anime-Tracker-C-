@@ -147,3 +147,4 @@ Caso encontre algum problema:
 - seguir o estilo do projeto
 - testar antes de enviar o Pull Request
 
+⭐ Se este projeto te ajudou ou inspirou, considere deixar uma estrela no repositório.
